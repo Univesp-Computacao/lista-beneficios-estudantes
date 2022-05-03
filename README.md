@@ -12,7 +12,7 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
 
 - [GitHub Student Developer Pack](https://education.github.com/pack) - 100% gratuito 
 - [JetBrains IDE's](https://www.jetbrains.com/community/education/) - 100% gratuito 
-
+- [AutoDesk](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual)
 
 ### Serviços de streaming
 - [Amazon Prime](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011) - 90 dias de teste gratuito e depois 50% de desconto.
@@ -21,6 +21,10 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
 - [Deezer Premium](https://www.deezer.com/br/offers/student) - 60 dias por R$ 0,90/ mês e depois 50% de desconto.
 
  
+ ### Plataformas com cursos gratuitos + certificados
+ - [4Linux (06 cursos gratuitos)](https://4linux.com.br/cursos/cursos-gratuitos/)
+ - [FIAP ON (20 cursos gratuitos)](https://on.fiap.com.br)
+ - [Coursera (01 curso gratuito)](https://www.coursera.org/for-university-and-college-students)
 
 ## Comprovando que você é estudante!
 
