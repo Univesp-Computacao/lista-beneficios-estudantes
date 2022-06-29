@@ -41,7 +41,7 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
 ### Serviços de streaming
 - [Amazon Prime](https://www.amazon.com/Amazon-Student/b?ie=UTF8&node=668781011) - 90 dias de teste gratuito e depois 50% de desconto.
 - [YouTube Premium + Music - Desconto](https://www.youtube.com/premium/student) - 30 dias gratuito e depois e depois 40% de desconto.
-- [Spotify Premium Universitário](https://www.spotify.com/br/student/) - 30 dias gratuito e depois e depois 50% de desconto.
+- [Spotify Premium Universitário](https://www.spotify.com/br/student/) - 30 dias gratuito e depois 50% de desconto.
 - [Deezer Premium](https://www.deezer.com/br/offers/student) - 60 dias por R$ 0,90/ mês e depois 50% de desconto.
 
  
