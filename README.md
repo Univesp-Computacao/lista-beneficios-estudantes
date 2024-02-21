@@ -61,7 +61,9 @@ E aqui está uma listinha que poderá te ajudar durante a graduação:
  - [GoRails](https://gorails.com/github-students) - 01 ano grátis.
  - [Alteryx](https://www.alteryx.com/pt-br/sparked/students) - 01 ano grátis.
  - [Qlik](https://www.qlik.com/us/academicprogram) - 01 ano grátis.
- 
+
+ ### Esporte, lazer e saúde
+ - [Strava](https://www.strava.com/student?hl=pt-BR) - 01 ano com 50% de desconto. Renovável.
 
 ## Comprovando que você é estudante!
 
